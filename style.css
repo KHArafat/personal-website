@@ -1,0 +1,108 @@
+body{
+    margin:0px;
+    padding:0px;
+    font-family:'Poppins';
+}
+
+#hello{
+    font-size:40px;    
+}
+#jack{
+    font-size:50px;
+    font-weight:900;
+    color:#ec4c7a;
+    padding-bottom:20px;
+}
+.jacks-description{
+    padding-bottom:20px;
+}
+
+h2{
+    font-size:40px;
+}
+
+section{
+    height:500px;
+    padding-bottom:200px;
+}
+.color-heighlight{
+    color:#ec4c7a;
+}
+.half-width{
+    width:40%;
+    float:left;
+    margin-left:5%;
+    padding-left:2%;
+}
+.half-width img{
+    width:100%;
+    height:100%;
+}
+.top-bg{
+    background-image:url(images/header-bg.png);
+    background-repeat:no-repeat;
+    background-position:left;
+}
+.mid-bg{
+    background-image:url(images/biography-bg.png );
+    background-repeat:no-repeat;
+    background-position:left;
+}
+.latest-bg{
+    background-image:url(images/latest-work-bg.png );
+    background-repeat:no-repeat;
+    background-position:left;
+}
+.bottom-bg{
+    text-align:center;
+    background-image:url(images/footer-bg.png);
+    background-repeat:no-repeat;
+    background-position:left;
+
+}
+.link-button{
+    text-decoration:none;
+    background-color:#ec4c76;
+    padding:10px 20px;
+    color:white;
+    border-radius:10px;
+    font-weight:700;
+}
+.latest-class img{
+    width:25%;
+    float:left;
+    padding-left:6%;
+}
+
+.client-say{
+    width:40%;
+    position:relative;
+    left:30%;
+}
+#burce-moccy{
+    font-size:20px;
+    font-weight:700;
+}
+#founder{
+    font-size:15px;  
+    color:gray;
+}
+.message-me{
+    background-image:linear-gradient(45deg, #ec5094, #ed4b72);
+    width:50%;
+    border-radius:10px;
+    position:relative;
+    left:25%;
+    color:white;
+    padding: 60px 0px;
+}
+.message-me a{
+    text-decoration:none;
+    color: white;
+    font-size:25px;
+    
+}
+
+footer{
+    text-align:center;
+}
